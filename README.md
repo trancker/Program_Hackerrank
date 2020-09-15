@@ -1,0 +1,3 @@
+# THIS IS SOLUTION OF HACKERRANK COMPETITIVE PROGRAMMING QUESTIONS.
+
+The solution is written by Mohammad Tanzil Idrisi
